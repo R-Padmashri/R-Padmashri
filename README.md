@@ -1,4 +1,4 @@
-<h1 align="center">Sup people, I'm Padmashri! 👋</h1>
+<h1 align="center">Hello there, I'm Padmashri! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=CSE+3rd+Year+Student;Frontend+Explorer+%F0%9F%92%BB;Loves+Building+Cool+Projects;Always+Learning+Something+New" alt="Typing SVG" />
