@@ -8,10 +8,9 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year Computer Science Engineering student
+- 🎓 Final-year Computer Science Engineering student
 - 💻 Passionate about coding and building functional UIs
-- 🎮 Created a browser-based **Flappy Bird** game using vanilla JS
-- 🛠️ Experienced with **C**, **CSS**, and **JavaScript**
+- 🛠️ Experienced with **React.js**, **Node.js**, **Python**
 - 🌱 Currently exploring **modern web development** and **responsive design**
 - ⚡ Always excited to learn and build fun projects
 
@@ -38,22 +37,6 @@
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=R-Padmashri&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-- 🎮 [**Flappy Bird Web**](https://github.com/R-Padmashri/flappy-bird-web)  
-  A fun clone of the classic game made using JavaScript and DOM manipulation
-
-- 📝 [**EchoNote** (Ongoing)](https://github.com/R-Padmashri/EchoNote)  
-  A clean, minimalist spotify-like app that lets you make personalized notes for a song using HTML/CSS
-
-- ❄️ [**Operation Ice Guard**](https://github.com/R-Padmashri/Operation_Ice_Guard)  
-  [Brief 1-line summary — feel free to add]
-
-- 📋 [**Course Registration System**](https://github.com/R-Padmashri/Course_Registration_System)  
-  Simple console-based course manager written in C
 
 ---
 
